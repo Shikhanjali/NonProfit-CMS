@@ -1,0 +1,25 @@
+{
+  "name": "NonProfit-CMS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shikhanjali/NonProfit-CMS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shikhanjali/NonProfit-CMS/issues"
+  },
+  "homepage": "https://github.com/Shikhanjali/NonProfit-CMS",
+  "dependencies": {
+    "express": "^4.12.3"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
